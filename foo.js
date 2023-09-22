@@ -1,4 +1,10 @@
    /*
+   {
+
+    "files.eol": "\n",
+
+}
+
    
    whoa!    Hold your horses! This is badly formatted code.
                        
